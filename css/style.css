@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(168, 135, 50);
+}
+
+.heading {
+    background-color: rgb(50, 168, 158);
+}
+
+.para {
+    background-color: rgb(168, 156, 50);
+}
+
+/* Dimension*/
+.BOX {
+    background-color: #8a14e3;
+    width:100px;
+    height: 100px;
+    font=size: 25px;
+}
+
+.heading {
+    width: 15%;
+}
+
+.para {
+    width: 30%;
+    /*margin;50px 200px 25px;/*trb1*/
+    /*margin-left: 20px*/
+    padding: 15%;
+}
+
+.para {
+    width: 20%;
+    margin-top: 15%
+}
